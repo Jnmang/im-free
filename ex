@@ -1,5 +1,3 @@
-// HttpPostRequestExample -- backend.js
-
 var http = require('http');
 var url = require('url');
 var QS = require('querystring');
